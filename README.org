@@ -1,0 +1,4 @@
+* Dungeon-World-Org-Mode
+[[https://github.com/Sagelt/Dungeon-World][Dungeon World RPG]] in Emacs Org-Mode.
+
+Also see the [[https://github.com/Sagelt/Dungeon-World/blob/master/LICENSE][Dungeon World License]].
