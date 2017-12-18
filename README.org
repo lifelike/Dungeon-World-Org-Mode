@@ -1,6 +1,6 @@
 * Dungeon-World-Org-Mode
 [[https://github.com/Sagelt/Dungeon-World][Dungeon World RPG]] in [[http://emacs.org][Emacs]] [[http://orgmode.org][Org mode]] format.
 
-Also see the [[https://github.com/Sagelt/Dungeon-World/blob/master/LICENSE][Dungeon World License]].
+Also see the [[file:LICENSE.org][LICENSE file]].
 
 Noticed also a similar repo with [[https://github.com/agude/Dungeon-World-Markdown/tree/master/text][Dungeon World in Markdown format]].
