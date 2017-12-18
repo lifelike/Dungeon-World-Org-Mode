@@ -4,9 +4,9 @@
 # key: monster
 # contributor: Pelle Nilsson
 # --
-** ${1:Name} ${2:Organization}, ${3:Size}$4
+** ${1:Name} ${2:$$(yas-choose-value '("Horde" "Group" "Solitary"))}, ${3:$$(yas-choose-value '("Tiny" "Small" "Large" "Huge"))}$4
 *${5:Attack} ($6 damage$7) $8 HP $9 Armor*
-*${10:Range}$11*
+*${10:$$(yas-choose-value '("Hand" "Close" "Reach" "Near" "Far"))}$11*
 *Special Qualities:* $12
 $13. /Instinct/: $14
     - $0
