@@ -109,106 +109,106 @@ to get it—you’re ready to go.
     99. To hate
     100. To run away
 ** 100 Knacks
-    - Criminal connections
-    - Muscle
-    - Skill with a specific weapon
-    - Hedge wizardry
-    - Comprehensive local knowledge
-    - Noble blood
-    - A one-of-a-kind item
-    - Special destiny
-    - Unique perspective
-    - Hidden knowledge
-    - Magical awareness
-    - Abnormal parentage
-    - Political leverage
-    - A tie to a monster
-    - A secret
-    - True love
-    - An innocent heart
-    - A plan for the perfect crime
-    - A one-way ticket to paradise
-    - A mysterious ore
-    - Money, money, money
-    - Divine blessing
-    - Immunity from the law
-    - Prophecy
-    - Secret martial arts techniques
-    - A ring of power
-    - A much-needed bag of taters
-    - A heart
-    - A fortified position
-    - Lawmaking
-    - Tongues
-    - A discerning eye
-    - Endurance
-    - A safe place
-    - Visions
-    - A beautiful mind
-    - A clear voice
-    - Stunning looks
-    - A catchy tune
-    - Invention
-    - Baking
-    - Brewing
-    - Smelting
-    - Woodworking
-    - Writing
-    - Immunity to fire
-    - Cooking
-    - Storytelling
-    - Ratcatching
-    - Lying
-    - Utter unremarkableness
-    - Mind-bending sexiness
-    - Undefinable coolness
-    - A way with knots
-    - Wheels of polished steel
-    - A magic carpet
-    - Endless ideas
-    - Persistence
-    - A stockpile of food
-    - A hidden path
-    - Piety
-    - Resistance to disease
-    - A library
-    - A silver tongue
-    - Bloodline
-    - An innate spell
-    - Balance
-    - Souls
-    - Speed
-    - A sense of right and wrong
-    - Certainty
-    - An eye for detail
-    - Heroic self-sacrifice
-    - Sense of direction
-    - A big idea
-    - A hidden entrance to the city
-    - The love of someone powerful
-    - Unquestioning loyalty
-    - Exotic fruit
-    - Poison
-    - Perfect memory
-    - The language of birds
-    - A key to an important door
-    - Metalworking
-    - Mysterious benefactors
-    - Steely nerves
-    - Bluffing
-    - A trained wolf
-    - A long-lost sibling, regained
-    - An arrow with your name on it
-    - A true name
-    - Luck
-    - The attention of supernatural powers
-    - Kindness
-    - Strange tattoos
-    - A majestic beard
-    - A book in a strange language
-    - Power overwhelming
-    - Delusions of grandeur
-    - The wind at his back and a spring in his step
+    1. Criminal connections
+    2. Muscle
+    3. Skill with a specific weapon
+    4. Hedge wizardry
+    5. Comprehensive local knowledge
+    6. Noble blood
+    7. A one-of-a-kind item
+    8. Special destiny
+    9. Unique perspective
+    10. Hidden knowledge
+    11. Magical awareness
+    12. Abnormal parentage
+    13. Political leverage
+    14. A tie to a monster
+    15. A secret
+    16. True love
+    17. An innocent heart
+    18. A plan for the perfect crime
+    19. A one-way ticket to paradise
+    20. A mysterious ore
+    21. Money, money, money
+    22. Divine blessing
+    23. Immunity from the law
+    24. Prophecy
+    25. Secret martial arts techniques
+    26. A ring of power
+    27. A much-needed bag of taters
+    28. A heart
+    29. A fortified position
+    30. Lawmaking
+    31. Tongues
+    32. A discerning eye
+    33. Endurance
+    34. A safe place
+    35. Visions
+    36. A beautiful mind
+    37. A clear voice
+    38. Stunning looks
+    39. A catchy tune
+    40. Invention
+    41. Baking
+    42. Brewing
+    43. Smelting
+    44. Woodworking
+    45. Writing
+    46. Immunity to fire
+    47. Cooking
+    48. Storytelling
+    49. Ratcatching
+    50. Lying
+    51. Utter unremarkableness
+    52. Mind-bending sexiness
+    53. Undefinable coolness
+    54. A way with knots
+    55. Wheels of polished steel
+    56. A magic carpet
+    57. Endless ideas
+    58. Persistence
+    59. A stockpile of food
+    60. A hidden path
+    61. Piety
+    62. Resistance to disease
+    63. A library
+    64. A silver tongue
+    65. Bloodline
+    66. An innate spell
+    67. Balance
+    68. Souls
+    69. Speed
+    70. A sense of right and wrong
+    71. Certainty
+    72. An eye for detail
+    73. Heroic self-sacrifice
+    74. Sense of direction
+    75. A big idea
+    76. A hidden entrance to the city
+    77. The love of someone powerful
+    78. Unquestioning loyalty
+    79. Exotic fruit
+    80. Poison
+    81. Perfect memory
+    82. The language of birds
+    83. A key to an important door
+    84. Metalworking
+    85. Mysterious benefactors
+    86. Steely nerves
+    87. Bluffing
+    88. A trained wolf
+    89. A long-lost sibling, regained
+    90. An arrow with your name on it
+    91. A true name
+    92. Luck
+    93. The attention of supernatural powers
+    94. Kindness
+    95. Strange tattoos
+    96. A majestic beard
+    97. A book in a strange language
+    98. Power overwhelming
+    99. Delusions of grandeur
+    100. The wind at his back and a spring in his step
 ** Names
 Finbar, Hywn, One Eye, Alhoro, Arlon, Yev, Slime, Jocat, Ewing, Lim, Poy, Milo,
 Deryl, Medlyn, Astrafel, Daelwyn, Feliana, Damarra, Sistranalle, Pendrell,
