@@ -114,7 +114,7 @@ Without you, they’d be lost. Blaze a trail through the blood and dark, strider
 You’ve heard them, sitting around the campfire. Bragging about this battle or
 that, or about how their gods are smiling on your merry band. You count your
 coins and smile to yourself—this is the thrill above all. You alone know the
-secret of Dungeon World: filthy, filthy lucre. 
+secret of Dungeon World: filthy, filthy lucre.
 
 Sure, they give you lip for all the times you’ve snuck off alone, but without
 you, every one of them would have been dissected by a flying guillotine or
@@ -203,7 +203,7 @@ the players say what their characters are thinking, feeling, and doing.
 Sometimes those descriptions will trigger a move—something that’ll cause
 everyone to stop and say “time to roll the dice to see what happens.” For a
 moment everyone hangs on the edges of their seats as the dice clatter to a stop.
-Tension and excitement are always the result, no matter how the dice land. 
+Tension and excitement are always the result, no matter how the dice land.
 
 As you play your characters they’ll change from their adventures and gain
 experience while learning about the world, overcoming monsters, and gathering
@@ -1383,7 +1383,7 @@ the tale of your own heroism?
 Nobody. Get going.
 ** Names
 /Elf/: Astrafel, Daelwyn, Feliana, Damarra, Sistranalle, Pendrell, Melliandre,
-Dagoliir 
+Dagoliir
 /Human/: Baldric, Leena, Dunwick, Willem, Edwyn, Florian, Seraphine, Quorra,
 Charlotte, Lily, Ramonde, Cassandra
 ** Look
@@ -1816,7 +1816,7 @@ one or more (possibly all) of these conditions to fulfill:
 The GM may, depending on the circumstances, allow you to resurrect the corpse
 now, with the understanding that the conditions must be met before it’s
 permanent, or require you to meet the conditions before the corpse is
-resurrected. 
+resurrected.
 *Hold Person* Level 3
 Choose a person you can see. Until you cast a spell or leave their presence they
 cannot act except to speak. This effect ends immediately if the target takes
@@ -2113,9 +2113,9 @@ You are the wall—let every danger smash itself to nothing on you. In the end,
 you’ll be the last one standing.
 ** Names
 /Dwarf/: Ozruk, Surtur, Brunhilda, Annika, Janos, Greta, Dim, Rundrig, Jarl,
-Xotoq  
-/Elf/: Elohiir, Sharaseth, Hasrith, Shevaral, Cadeus, Eldar, Kithracet, Thelian    
-/Halfling/: Finnegan, Olive, Randolph, Bartleby, Aubrey, Baldwin, Becca 
+Xotoq
+/Elf/: Elohiir, Sharaseth, Hasrith, Shevaral, Cadeus, Eldar, Kithracet, Thelian
+/Halfling/: Finnegan, Olive, Randolph, Bartleby, Aubrey, Baldwin, Becca
 /Human/: Hawke, Rudiger, Gregor, Brianne, Walton, Castor, Shanna, Ajax, Hob
 ** Look
 Choose one for each:
@@ -2295,7 +2295,7 @@ righteousness and virtue. Of justice. Vision, too. A purity of intent that your
 companions do not have.
 
 So guide these fools, paladin. Take up your holy cause and bring salvation to
-the wastrel world. 
+the wastrel world.
 
 Vae victis, right?
 ** Names
@@ -2460,7 +2460,7 @@ though.
 
 Without you, they’d be lost. Blaze a trail through the blood and dark, strider.
 ** Names
-/Elf/: Throndir, Elrosine, Aranwe, Celion, Dambrath, Lanethe 
+/Elf/: Throndir, Elrosine, Aranwe, Celion, Dambrath, Lanethe
 /Human/: Jonah, Halek, Brandon, Emory, Shrike, Nora, Diana
 ** Look
 Choose one for each:
@@ -2810,7 +2810,7 @@ Let them cast their sidelong glances. Let them call you “warlock” or
 
 Yeah. We didn’t think so.
 ** Names
-/Elf/: Galadiir, Fenfaril, Lilliastre, Phirosalle, Enkirash, Halwyr 
+/Elf/: Galadiir, Fenfaril, Lilliastre, Phirosalle, Enkirash, Halwyr
 /Human/: Avon, Morgan, Rath, Ysolde, Ovid, Vitus, Aldara, Xeno, Uri
 ** Look
 Choose one for each:
@@ -3525,7 +3525,7 @@ tunnels, warped trees, safe trails, or whatever else. This is your opportunity
 to introduce them to a new environment: the tunnels gradually become naturally
 carved, the trees are dead and strange, or the trails are lost and the
 wilderness takes over. Use this move to vary the types of areas and creatures
-the players will face. 
+the players will face.
 **** Point to a looming threat
 If you know that something is lurking and waiting for the players to stumble
 upon it, this move shows them the signs and clues. This move is the dragon’s
@@ -3631,7 +3631,7 @@ Some whole adventures might take place in a peopled environment rather than an
 isolated dungeon. Some classes, the bard in particular, are adept at
 manipulating and using people as resources. Don’t shy away from these
 situations. Be a fan of these characters, giving them interesting, nuanced
-people to interact with.  
+people to interact with.
 
 People, just like dungeons, change over time. The passing of the characters
 through their lives might inspire or enrage them. The characters’ actions will
